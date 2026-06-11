@@ -2,6 +2,8 @@
 
 **Tiny lives in tiny boxes.** A single-file browser life-sim: little stick folk who live in connected boxes. Drag boxes together and watch them visit, play, scrap, fall in love, have babies, get jobs and promotions, play a mini-game, and more — all running on their own.
 
+### ▶ [Click here to play the live website](https://jiwanjotsoni.github.io/boxlings/)
+
 Original work. No assets or code from any other product; everything (art, animation, audio, simulation) is generated procedurally in vanilla JavaScript.
 
 ## Play it
