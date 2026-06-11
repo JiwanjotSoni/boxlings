@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- backdrop -->
+  <rect width="512" height="512" rx="96" fill="#0a0a0f"/>
+  <!-- box shell (colored frame) -->
+  <rect x="96" y="96" width="320" height="320" rx="36" fill="#ffb347"/>
+  <!-- LCD screen interior -->
+  <rect x="136" y="136" width="240" height="240" rx="14" fill="#c8d3a8"/>
+  <!-- scanlines -->
+  <g fill="#a8b390" opacity="0.35">
+    <rect x="136" y="168" width="240" height="6"/>
+    <rect x="136" y="208" width="240" height="6"/>
+    <rect x="136" y="248" width="240" height="6"/>
+    <rect x="136" y="288" width="240" height="6"/>
+    <rect x="136" y="328" width="240" height="6"/>
+  </g>
+  <!-- ground line -->
+  <rect x="136" y="340" width="240" height="4" fill="#a8b390"/>
+  <!-- stick figure -->
+  <g stroke="#1a1a24" stroke-width="12" stroke-linecap="round" fill="none">
+    <circle cx="256" cy="208" r="26" fill="#1a1a24" stroke="none"/>
+    <line x1="256" y1="234" x2="256" y2="304"/>
+    <line x1="256" y1="258" x2="218" y2="288"/>
+    <line x1="256" y1="258" x2="294" y2="288"/>
+    <line x1="256" y1="304" x2="226" y2="340"/>
+    <line x1="256" y1="304" x2="286" y2="340"/>
+  </g>
+</svg>

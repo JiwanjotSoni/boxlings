@@ -1,0 +1,9 @@
+# local helper / build artifacts
+_extract.ps1
+_check.js
+*.log
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
